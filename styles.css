@@ -76,6 +76,7 @@ width: 100%;
         background-position: bottom;
         background-size: cover;
         -webkit-background-clip: text;
+        background-clip: text;
         animation: animate 15s linear infinite;
         text-align: center;
         margin-top: 50px;
