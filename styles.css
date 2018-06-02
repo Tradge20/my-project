@@ -34,7 +34,7 @@ li a:hover:not(.active) {
 }
 
 li a.active {
-    background-color: #4caf50;
+    background-color: #058f0a;
 }
 
 @media screen and (max-width: 600px) {
